@@ -4,17 +4,15 @@ Welcome to my GitHub! I’m Asser Moustafa, currently a Research Assistant at No
 ---
 
 ## 👀 Areas of Interest
-- Advanced **AI and Machine Learning** applications, particularly in cybersecurity and financial engineering.
+- Advanced **AI and Machine Learning** applications, particularly in Machine Learning and cybersecurity.
 - Developing robust, scalable software solutions for real-world challenges.
 - Exploring innovative methodologies in predictive modeling, algorithm optimization, and data-driven solutions.
 
 ## 🌱 Currently Learning
-- In-depth **TensorFlow** and **PyTorch** for deep learning model development.
-- **Financial Engineering** applications of AI in collaboration with North Central College’s CSCE Department.
-- Expanding knowledge in **cloud computing** and **containerization** for optimized deployment.
+- Applications of AI in collaboration with North Central College’s CSCE Department.
 
 ## 💼 Notable Projects & Achievements
-- 🏆 **Lead Author in ISIITA and IEEE**: Published research on predictive modeling in financial engineering and the performance of RNN architectures.
+- 🏆 **Lead Author in ISIITA and IEEE**: Published research AI and Machine Learning.
 - 🚀 **Software Engineering Intern at Collins Aerospace**: Developed a Jira automation tool that reduced backlog report load time from 4 minutes to 3 seconds, impacting 100+ engineers.
 - 👨‍🏫 **Mathematics Tutor & CS Preceptor**: Mentored over 60 students in advanced CS and math topics, enhancing comprehension and self-study efficiency.
 
@@ -24,6 +22,6 @@ Welcome to my GitHub! I’m Asser Moustafa, currently a Research Assistant at No
 - Innovative software solutions aimed at tackling real-world engineering challenges.
 
 ## 📫 Reach Me
-- 📧 Email: asserjobsearch@gmail.com
+- 📧 Email: assernmoustafa2@gmail.com
 - 🔗 LinkedIn: [Asser Moustafa](https://www.linkedin.com/in/asser-moustafa/)
 - 🌐 GitHub Portfolio: Explore my projects and contributions here on GitHub!
