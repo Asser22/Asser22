@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m Asser Moustafa, currently a Research Assistant at No
 ---
 
 ## 👀 Areas of Interest
-- Advanced **AI and Machine Learning** applications, particularly in Machine Learning and cybersecurity.
+- Advanced **AI and Machine Learning** applications, particularly in Machine Learning and NLP.
 - Developing robust, scalable software solutions for real-world challenges.
 - Exploring innovative methodologies in predictive modeling, algorithm optimization, and data-driven solutions.
 
@@ -17,7 +17,7 @@ Welcome to my GitHub! I’m Asser Moustafa, currently a Research Assistant at No
 - 👨‍🏫 **Mathematics Tutor & CS Preceptor**: Mentored over 60 students in advanced CS and math topics, enhancing comprehension and self-study efficiency.
 
 ## 💡 Looking to Collaborate On
-- Projects that push boundaries in **AI**, **machine learning**, and **cybersecurity**.
+- Projects that push boundaries in **AI**, **machine learning**, and **NLP**.
 - Collaborative efforts in **predictive modeling** and **complex algorithm development**.
 - Innovative software solutions aimed at tackling real-world engineering challenges.
 
