@@ -25,4 +25,3 @@ Welcome to my GitHub! I’m Asser Moustafa, currently a Research Assistant at No
 - 📧 Email: assernmoustafa2@gmail.com
 - 🔗 LinkedIn: [Asser Moustafa](https://www.linkedin.com/in/asser-moustafa/)
 - 🌐 GitHub Portfolio: Explore my projects and contributions here on GitHub!
-
